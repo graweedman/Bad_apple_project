@@ -1,0 +1,3 @@
+[submodule "Bad_apple_STM32"]
+	path = Bad_apple_STM32
+	url = https://github.com/graweedman/Bad_apple_STM32
